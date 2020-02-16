@@ -1,4 +1,4 @@
-# Marriott Hotels Caset
+# Marriott Hotel Case
 
 ![Image](https://img.elcomercio.pe/files/article_main/uploads/2019/09/17/5d81858d3459b.jpeg)
 
